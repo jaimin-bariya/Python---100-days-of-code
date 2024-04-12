@@ -5,7 +5,7 @@ choices = ['rock', 'paper', 'scissors']
 
 userInput = int(input("what do you choose. type 0 = Rock, 1 = Paper, 2 = Scissors : "))
 
-print("Your Choice :- " + choices[userInput])
+print("Your Choice :- " + choices[userInput]) 
 if userInput == 0:
     print(rock)
 elif userInput == 1:
