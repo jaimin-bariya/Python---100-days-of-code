@@ -12,6 +12,7 @@ screen = Screen()
 screen.setup(width=800, height=300)
 
 
+
 user_bet = screen.textinput(title="Choose your bet", prompt="On which turtle you wanna ber (type color name)?").lower()
 
 
@@ -59,20 +60,5 @@ while(is_race_on):
             
             
     
-
-
-
-       
-        
-        
-
-    
-
-
-
-
-
-
-
 
 screen.exitonclick()
