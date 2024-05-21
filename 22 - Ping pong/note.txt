@@ -1,0 +1,12 @@
+1. Create Screen
+2. Create 2 paddle
+3. Make paddle move left and right
+4. Create ball 
+5. Make ball move
+6. Bounce ball against wall 
+7. Bounce ball against paddle 
+8. Make Scoreboard 
+    a. show both side each players score 
+    b. increase score when opposite player loss to hit the ball
+    c. if score reach 10 or more, Plyaer A win (user preferable winScore) 
+    d. Increase speed of ball according to score increase. 
