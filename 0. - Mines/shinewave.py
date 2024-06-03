@@ -6,6 +6,8 @@ screen = Screen()
 
 screen.setup(width=1000, height=500)
 
+#added 
+
 tim.penup()
 tim.goto(x=-450, y=0)
 tim.pendown()
